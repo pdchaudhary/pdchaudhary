@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @pdchaudhary I am a Back End Developer / Front End Developer living in Gujarat, India.
-I am currently working as a Web Developer at Velox Softech, which is where my passion for design and development converge.
 
 - 👀 I have 8 years working experience in web development. I have delivered more then 10-15 websites projects in my career . I have very good command over React JS, Vue js, PHP, WordPress, Symfony, Pimcore and Larvel. I can perform both front-end and backend responsibilities.
 
